@@ -1,0 +1,4 @@
+{
+    "FLAGGED_BUCKET": "guru-upload-functions-demo-flagged",
+    "IMAGES_BUCKET": "guru-upload-functions-demo-images"
+}
